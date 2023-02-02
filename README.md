@@ -1,1 +1,3 @@
-My repository for the Helsinki University course Full Stack Open.
+# Full Stack Open (University of Helsinki)
+
+[Course material](https://fullstackopen.com/en/)
